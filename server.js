@@ -9,4 +9,3 @@ app.get('/',(req,res) => {
     res.send('build/index.html')
 });
 
-app.listen(port);
